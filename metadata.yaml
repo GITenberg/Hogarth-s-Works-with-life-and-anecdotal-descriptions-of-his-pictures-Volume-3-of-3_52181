@@ -1,0 +1,32 @@
+_repo: Hogarth-s-Works-with-life-and-anecdotal-descriptions-of-his-pictures-Volume-3-of-3_52181
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ireland, John
+    deathdate: 1808
+    gutenberg_agent_id: '46293'
+    url: http://www.gutenberg.org/2009/agents/46293
+  - agent_name: Nichols, John
+    aliases:
+    - Urban, Sylvanus
+    - Nichols, J. (John)
+    birthdate: 1745
+    deathdate: 1826
+    gutenberg_agent_id: '45214'
+    url: http://www.gutenberg.org/2009/agents/45214
+description: ''
+gutenberg_issued: '2016-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Hogarth, William, 1697-1764'
+- GITenberg
+title: Hogarth's Works, with life and anecdotal descriptions of his pictures. Volume
+  3 (of 3)
+url: http://www.gutenberg.org/ebooks/52181
